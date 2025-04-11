@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m "mensaje"
+git remote add origin URL
+git push -u origin main
